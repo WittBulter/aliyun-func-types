@@ -18,7 +18,7 @@ export interface AliyunHttpQuery {
   [key: string]: string | string[]
 }
 
-export interface AliyunHttpRequest {
+export interface AliyunHttpRequest extends Readable {
   headers: AliyunHttpHeader
   path: string
   queries: AliyunHttpQuery
