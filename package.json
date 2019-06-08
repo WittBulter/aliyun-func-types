@@ -1,0 +1,12 @@
+{
+  "name": "aliyun-func-types",
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "aliyun.http.ts",
+  "module": "aliyun.http.ts",
+  "types": "aliyun.http.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wittbulter/aliyun-func-types.git"
+  }
+}
