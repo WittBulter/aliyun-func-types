@@ -7,6 +7,6 @@
   "types": "aliyun.http.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wittbulter/aliyun-func-types.git"
+    "url": "git+https://github.com/unix/aliyun-func-types.git"
   }
 }
